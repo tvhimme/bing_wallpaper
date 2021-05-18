@@ -1,0 +1,4 @@
+MAILTO=""
+
+00 13 * * * /home/tymen/me/wallpaper.sh >> /var/log/cron.log 2> /var/log/cron_error.log
+
