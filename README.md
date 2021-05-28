@@ -10,7 +10,8 @@ This is an api which returns the daily Bing wallpaper (as used on Windows 10).
 ### How do I use cronjobs?
 1. start the terminal
 2. enter `crontab -e`
-3. add the content of `crontab.txt` to the bottom of the file
+3. add the content of `crontab.txt` to the bottom of the file  
+
 Cronjobs only run when your pc is running.  
 
 This script is made for *Ubuntu 20.10* (*Pop!_OS 20.10* to be more precise), and may not run on other operating systems.
